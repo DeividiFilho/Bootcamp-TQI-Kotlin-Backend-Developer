@@ -1,2 +1,8 @@
 # Bootcamp-TQI-Kotlin-Backend-Developer
-Bootcamp DIO
+
+O Bootcamp TQI Kotlin - Backend Developer é um programa gratuito para formação de profissionais que estão iniciando sua carreira e buscam mais conhecimento técnico em desenvolvimento back-end. E, claro, para qualquer pessoa que queira aprender, evoluir e se tornar um profissional de tecnologia. O programa conta com mais de 100 horas de experiências educacionais, incluindo atividades didáticas e, também, desafios práticos para que você tenha o aprendizado completo. Além disso, para tornar sua jornada ainda mais completa, você terá a oportunidade de assistir mentorias ao vivo com os(as) experts da TQI! Os melhores classificados no Bootcamp serão selecionados para seguir nas fases seguintes do processo seletivo de contratação.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Bootcamp-TQI-Kotlin-Backend-Developer
+
+Bootcamp TQI Kotlin - Backend Developer is a free program for training professionals who are starting their career and are looking for more technical knowledge in back-end development. And, of course, for anyone who wants to learn, evolve, and become a technology professional. The program has more than 100 hours of educational experiences, including didactic activities and also practical challenges so that you have complete learning. In addition, to make your journey even more complete, you will have the opportunity to watch live mentorships with TQI experts! The best ranked in Bootcamp will be selected to move on to the next stages of the hiring selection process.
