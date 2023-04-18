@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  apache:
+    image: httpd
+    ports:
+      - "80:80"
+    volumes:
+      - ./app:/usr/local/apache2/htdocs/
+    environment:
+      - HTTPD_RUN_USER=www-data
+      - HTTPD_RUN_GROUP=www-data
